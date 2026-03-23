@@ -2,7 +2,7 @@
 Analyzed NBA player stats (2014–2024) to rank U.S. colleges by NBA productivity, aggregating performance metrics and building interactive visualizations with a reproducible data pipeline.
 
 ## Live Website
-Check out the interactive dashboard here: http://localhost:8501/#which-colleges-produce-the-best-nba-players
+Check out the interactive dashboard here: http://localhost:8505/#aec113c
 
 
 ## Project Overview
