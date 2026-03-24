@@ -5,6 +5,8 @@ Built a full data pipeline and interactive Streamlit dashboard to rank colleges 
 
 # Dashboard Preview
 <img width="898" height="759" alt="image" src="https://github.com/user-attachments/assets/805db45a-45fb-40e2-b5b4-063d6d85cc97" />
+<img width="841" height="837" alt="image" src="https://github.com/user-attachments/assets/dfb29b6e-602f-4224-a817-ca85efdc278a" />
+
 
 
 ## Live Website
