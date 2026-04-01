@@ -52,7 +52,7 @@ col3.metric("Total Colleges", len(df))
 st.markdown("---")
 
 # -----------------------
-# Overall Chart (SIMPLER)
+# Overall Chart
 # -----------------------
 st.subheader("🏆 Best Colleges Overall")
 
@@ -64,7 +64,7 @@ chart = alt.Chart(top_colleges).mark_bar(color="#4C78A8").encode(
 st.altair_chart(chart, use_container_width=True)
 
 # -----------------------
-# Metric Chart (SIMPLER)
+# Metric Chart
 # -----------------------
 st.subheader(f"📊 Top Colleges by {metric}")
 
@@ -78,7 +78,7 @@ metric_chart = alt.Chart(metric_rank).mark_bar(color="#54A24B").encode(
 st.altair_chart(metric_chart, use_container_width=True)
 
 # -----------------------
-# Optional table (collapsed)
+# Optional table
 # -----------------------
 with st.expander("See Data Table"):
     st.dataframe(top_colleges, use_container_width=True)
